@@ -1,0 +1,6 @@
+_minted-tuto-git/
+*.aux
+*.log
+*.toc
+*.pdf
+*.out
